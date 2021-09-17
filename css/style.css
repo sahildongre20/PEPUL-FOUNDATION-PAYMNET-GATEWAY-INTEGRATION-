@@ -224,7 +224,7 @@ footer p{
   margin-left: 15%;  
 }
   
-/* Create four equal columns that sits next to each other */
+
 .column {
   -ms-flex: 35%; /* IE10 */
   flex: 35%;
@@ -315,7 +315,7 @@ footer p{
   font-size: 1.3em;
   opacity: 1;
 }
-/* Responsive layout - makes a two column-layout instead of four columns */
+
 @media screen and (max-width: 800px) {
   .column {
     -ms-flex: 50%;
@@ -324,7 +324,7 @@ footer p{
   }
 }
 
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+
 @media screen and (max-width: 600px) {
   .column {
     -ms-flex: 100%;
